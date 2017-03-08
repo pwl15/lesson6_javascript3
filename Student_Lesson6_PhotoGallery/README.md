@@ -13,8 +13,7 @@ Paul Lee
 The assignment was developing a photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwl15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. How to access elements by id, tag name, class, name or selector
